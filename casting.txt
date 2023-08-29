@@ -1,0 +1,10 @@
+class casting
+  {
+   public static void main(String []args)
+    {
+         int a=1234;
+         short c;
+         c=a;
+      System.out.println(c);
+    }
+  }
