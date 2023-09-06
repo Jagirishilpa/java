@@ -1,4 +1,4 @@
-class year
+class year2
 { 
   public static void main(String []args)
   {  
